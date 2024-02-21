@@ -1,0 +1,15 @@
+body{
+    font-family: 'Gabarito', sans-serif;
+}
+header{
+    color: white;
+}
+header{
+    background-color: #086c6c;
+    opacity: 75%;
+}
+#imgGokyuzu{
+    height: 75px;
+    margin-left: 200px;
+}
+
